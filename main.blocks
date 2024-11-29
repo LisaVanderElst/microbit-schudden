@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=";SA$*D|dd]v]btUqu[rA">getal</variable><variable id="YUCXaGhE/O8$#P:zXuF^">tafel</variable></variables><block type="device_gesture_event" id="M:#Ih*[}/;dP3},5hUSO" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="controls_if" id="K)n9px2o=:ijen{qp#}5"><value name="IF0"><shadow type="logic_boolean" id="ZJeX_+l;i[,Kp2V:29z|"><field name="BOOL">TRUE</field></shadow></value><statement name="DO0"><block type="device_show_number" id="O$1#O;H%A;OB+lY0a|B2"><value name="number"><shadow type="math_number" id="-zBvS?N=:{*=k~RR|@z#"><field name="NUM">0</field></shadow><block type="device_random" id="+BPw2^E!0dpOU#MIV6YG"><value name="min"><shadow type="math_number" id="}Yf8yji/WJ_}aB,9@B6?"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="KX@TNinRk:-YM:Z9Gm8A"><field name="NUM">6</field></shadow></value></block></value><next><block type="device_pause" id="QA}{IXeJE9Oi+V6X.7qN"><value name="pause"><shadow type="timePicker" id="8a8D?(Vz^K5zlNgNHJMG"><field name="ms">2000</field></shadow></value><next><block type="device_show_leds" id="_pjhcW?4K*J;~`4KE~aP"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></statement></block></statement></block></xml>
